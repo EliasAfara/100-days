@@ -1,8 +1,6 @@
 # 100 days - The Roadmap
 
-Taking a step back to relearn the fundamentals (Full stack JS web + Flutter) in 100 days. This reposirory contains the entire roadmap for my learning journey in addition to all the valuable notes that I learn along the way.
-
-I will keep updating the roadmap from now until the end of this month with all the info I need. The journey starts on 01/09/2020.
+Taking a step back to re-learn the fundamentals (Full stack JS web + Flutter) in 100 days. This repository contains the entire roadmap for my learning journey in addition to all the valuable notes that I learn along the way (which you can find in the [Wiki](https://github.com/bassel/100-days/wiki)).
 
 ## The plan
 - [ ] Relearn the fundamental blocks of web development
